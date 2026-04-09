@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Docker
+## Build of the postgres-search image
+Dockerfile
+
+# DevEnv
+devenv.lock
+devenv.nix
+devenv.yaml
+
+.envrc
